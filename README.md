@@ -13,6 +13,8 @@ On Linux
 source ecom_env/bin/activate
 
 # Install django
+https://docs.djangoproject.com/en/4.2/intro/install/
+https://docs.djangoproject.com/en/4.2/topics/install/#installing-official-release
 1. Run virtual env
 2. pip install django
 3. Create a prj in django: django-admin startproject name_prj .
